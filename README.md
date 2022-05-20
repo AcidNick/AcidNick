@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AcidNick
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning HTML, CSS, JavaScript
-- 💞️ I’m looking to collaborate on nothing.
+- 💞️ I’m looking to collaborate on some secrets.
 - 📫 How to reach me: Who knows?
 
 <!---
